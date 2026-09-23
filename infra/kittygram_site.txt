@@ -1,0 +1,5 @@
+IP: 158.160.159.158;
+name_taski: https://hopti.hopto.org;
+name_kittygram: https://158-160-159-158.nip.io;
+login: golyy;
+password: KittyGram-158;
